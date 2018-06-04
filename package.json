@@ -13,8 +13,16 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "fullpage.js": "^2.9.7",
+    "jquery": "^3.3.1",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "prerender-spa-plugin": "^3.1.0",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-fullpage.js": "0.0.1",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
